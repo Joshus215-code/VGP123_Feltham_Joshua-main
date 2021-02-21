@@ -1,0 +1,3804 @@
+fileFormatVersion: 2
+guid: e57a85890aaca0a4885556975d44d05f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7145936942543351579
+    second: NES - Batman Return of the Joker - Enemies_0
+  - first:
+      213: 8102381605254587284
+    second: NES - Batman Return of the Joker - Enemies_1
+  - first:
+      213: -1430158818532808509
+    second: NES - Batman Return of the Joker - Enemies_2
+  - first:
+      213: -1474967687278245053
+    second: NES - Batman Return of the Joker - Enemies_3
+  - first:
+      213: 5491444053220847996
+    second: NES - Batman Return of the Joker - Enemies_4
+  - first:
+      213: -8707596432748992845
+    second: NES - Batman Return of the Joker - Enemies_5
+  - first:
+      213: 4886221526828469702
+    second: NES - Batman Return of the Joker - Enemies_6
+  - first:
+      213: -1882286556734485824
+    second: NES - Batman Return of the Joker - Enemies_7
+  - first:
+      213: 7490237202204076292
+    second: NES - Batman Return of the Joker - Enemies_8
+  - first:
+      213: -7064061900446273357
+    second: NES - Batman Return of the Joker - Enemies_9
+  - first:
+      213: 224992348515268400
+    second: NES - Batman Return of the Joker - Enemies_10
+  - first:
+      213: -3998608692963855509
+    second: NES - Batman Return of the Joker - Enemies_11
+  - first:
+      213: -2808893884739675740
+    second: NES - Batman Return of the Joker - Enemies_12
+  - first:
+      213: 925614285460679200
+    second: NES - Batman Return of the Joker - Enemies_13
+  - first:
+      213: -3816130896533306218
+    second: NES - Batman Return of the Joker - Enemies_14
+  - first:
+      213: -7406285437143549172
+    second: NES - Batman Return of the Joker - Enemies_15
+  - first:
+      213: -4730433681815999546
+    second: NES - Batman Return of the Joker - Enemies_16
+  - first:
+      213: 7509771089358883321
+    second: NES - Batman Return of the Joker - Enemies_17
+  - first:
+      213: 7707785170789139286
+    second: NES - Batman Return of the Joker - Enemies_18
+  - first:
+      213: -780472992806392250
+    second: NES - Batman Return of the Joker - Enemies_19
+  - first:
+      213: 4765472511143231238
+    second: NES - Batman Return of the Joker - Enemies_20
+  - first:
+      213: 3276927722133405876
+    second: NES - Batman Return of the Joker - Enemies_21
+  - first:
+      213: -5927323434096553790
+    second: NES - Batman Return of the Joker - Enemies_22
+  - first:
+      213: -6666763482702013873
+    second: NES - Batman Return of the Joker - Enemies_23
+  - first:
+      213: -2226788069518629125
+    second: NES - Batman Return of the Joker - Enemies_24
+  - first:
+      213: 6966507251337385913
+    second: NES - Batman Return of the Joker - Enemies_25
+  - first:
+      213: -2947102590226096974
+    second: NES - Batman Return of the Joker - Enemies_26
+  - first:
+      213: -4909796085718971212
+    second: NES - Batman Return of the Joker - Enemies_27
+  - first:
+      213: -762868774866076541
+    second: NES - Batman Return of the Joker - Enemies_28
+  - first:
+      213: 8184375822330718753
+    second: NES - Batman Return of the Joker - Enemies_29
+  - first:
+      213: 520475609247045402
+    second: NES - Batman Return of the Joker - Enemies_30
+  - first:
+      213: -5166761175061533109
+    second: NES - Batman Return of the Joker - Enemies_31
+  - first:
+      213: -902147009058049193
+    second: idle
+  - first:
+      213: -7935591866182304698
+    second: attack1
+  - first:
+      213: 1447471361414416280
+    second: NES - Batman Return of the Joker - Enemies_34
+  - first:
+      213: 5313083694519578304
+    second: attack2
+  - first:
+      213: 6089910678098051508
+    second: fire
+  - first:
+      213: -1038950636851895963
+    second: projectile
+  - first:
+      213: 6342220519268700094
+    second: NES - Batman Return of the Joker - Enemies_38
+  - first:
+      213: 6876928178840941452
+    second: NES - Batman Return of the Joker - Enemies_39
+  - first:
+      213: 4384958724783594436
+    second: NES - Batman Return of the Joker - Enemies_40
+  - first:
+      213: -5962267226297274332
+    second: NES - Batman Return of the Joker - Enemies_41
+  - first:
+      213: 6032816552305981172
+    second: NES - Batman Return of the Joker - Enemies_42
+  - first:
+      213: 8101769697717746284
+    second: NES - Batman Return of the Joker - Enemies_43
+  - first:
+      213: -5122464741708234787
+    second: NES - Batman Return of the Joker - Enemies_44
+  - first:
+      213: -8621559578614060885
+    second: NES - Batman Return of the Joker - Enemies_45
+  - first:
+      213: -3025852983296635719
+    second: NES - Batman Return of the Joker - Enemies_46
+  - first:
+      213: -2255038724658658899
+    second: NES - Batman Return of the Joker - Enemies_47
+  - first:
+      213: 2370190258635773630
+    second: NES - Batman Return of the Joker - Enemies_48
+  - first:
+      213: -8202201448526541202
+    second: NES - Batman Return of the Joker - Enemies_49
+  - first:
+      213: -5217148347451200030
+    second: NES - Batman Return of the Joker - Enemies_50
+  - first:
+      213: -4550521240132410897
+    second: NES - Batman Return of the Joker - Enemies_51
+  - first:
+      213: -8554704669464141532
+    second: NES - Batman Return of the Joker - Enemies_52
+  - first:
+      213: -3138802579438239039
+    second: NES - Batman Return of the Joker - Enemies_53
+  - first:
+      213: 6024264306471600871
+    second: NES - Batman Return of the Joker - Enemies_54
+  - first:
+      213: -3375448645462096758
+    second: NES - Batman Return of the Joker - Enemies_55
+  - first:
+      213: -6498599689208606899
+    second: NES - Batman Return of the Joker - Enemies_56
+  - first:
+      213: -420623379716659420
+    second: NES - Batman Return of the Joker - Enemies_57
+  - first:
+      213: -8165158294355089780
+    second: NES - Batman Return of the Joker - Enemies_58
+  - first:
+      213: 1175729536900238388
+    second: NES - Batman Return of the Joker - Enemies_59
+  - first:
+      213: 6923151337997939993
+    second: NES - Batman Return of the Joker - Enemies_60
+  - first:
+      213: -2156621837141663016
+    second: NES - Batman Return of the Joker - Enemies_61
+  - first:
+      213: 1111459932319217603
+    second: NES - Batman Return of the Joker - Enemies_62
+  - first:
+      213: 1356785862319733766
+    second: NES - Batman Return of the Joker - Enemies_63
+  - first:
+      213: 1966165678045754140
+    second: NES - Batman Return of the Joker - Enemies_64
+  - first:
+      213: -5040783761520885911
+    second: NES - Batman Return of the Joker - Enemies_65
+  - first:
+      213: 3236556291091235025
+    second: NES - Batman Return of the Joker - Enemies_66
+  - first:
+      213: -2384282644725991819
+    second: NES - Batman Return of the Joker - Enemies_67
+  - first:
+      213: 4843528220809052071
+    second: NES - Batman Return of the Joker - Enemies_68
+  - first:
+      213: 4939688204781064431
+    second: NES - Batman Return of the Joker - Enemies_69
+  - first:
+      213: -2113241024259196718
+    second: NES - Batman Return of the Joker - Enemies_70
+  - first:
+      213: 6044424411739639127
+    second: NES - Batman Return of the Joker - Enemies_71
+  - first:
+      213: -5831748682905986740
+    second: NES - Batman Return of the Joker - Enemies_72
+  - first:
+      213: -215053084237866958
+    second: NES - Batman Return of the Joker - Enemies_73
+  - first:
+      213: 209411830164128461
+    second: NES - Batman Return of the Joker - Enemies_74
+  - first:
+      213: -2355912920082873282
+    second: NES - Batman Return of the Joker - Enemies_75
+  - first:
+      213: 2881369572666348244
+    second: NES - Batman Return of the Joker - Enemies_76
+  - first:
+      213: -494080835094574512
+    second: NES - Batman Return of the Joker - Enemies_77
+  - first:
+      213: 3317647746878855872
+    second: NES - Batman Return of the Joker - Enemies_78
+  - first:
+      213: -5716063525075637875
+    second: NES - Batman Return of the Joker - Enemies_79
+  - first:
+      213: 1977176964225429631
+    second: NES - Batman Return of the Joker - Enemies_80
+  - first:
+      213: 5772915344478748238
+    second: NES - Batman Return of the Joker - Enemies_81
+  - first:
+      213: -8308689253908360393
+    second: NES - Batman Return of the Joker - Enemies_82
+  - first:
+      213: -7651847131689043122
+    second: NES - Batman Return of the Joker - Enemies_83
+  - first:
+      213: 210145224770880767
+    second: NES - Batman Return of the Joker - Enemies_84
+  - first:
+      213: 6343564504293244995
+    second: NES - Batman Return of the Joker - Enemies_85
+  - first:
+      213: -1559736079207725773
+    second: NES - Batman Return of the Joker - Enemies_86
+  - first:
+      213: 149262187771811165
+    second: NES - Batman Return of the Joker - Enemies_87
+  - first:
+      213: 5580676922410429851
+    second: NES - Batman Return of the Joker - Enemies_88
+  - first:
+      213: 4512280977325866319
+    second: NES - Batman Return of the Joker - Enemies_89
+  - first:
+      213: 6346648724376033519
+    second: NES - Batman Return of the Joker - Enemies_90
+  - first:
+      213: 2002683509184241816
+    second: NES - Batman Return of the Joker - Enemies_91
+  - first:
+      213: 8403442968971984061
+    second: NES - Batman Return of the Joker - Enemies_92
+  - first:
+      213: -8982010666881015454
+    second: NES - Batman Return of the Joker - Enemies_93
+  - first:
+      213: 1966061591794443580
+    second: NES - Batman Return of the Joker - Enemies_94
+  - first:
+      213: -9018439976175539977
+    second: NES - Batman Return of the Joker - Enemies_95
+  - first:
+      213: 1994304159247670897
+    second: NES - Batman Return of the Joker - Enemies_96
+  - first:
+      213: 1270851906139870073
+    second: NES - Batman Return of the Joker - Enemies_97
+  - first:
+      213: -3077735566941835094
+    second: NES - Batman Return of the Joker - Enemies_98
+  - first:
+      213: 4771316554472821773
+    second: NES - Batman Return of the Joker - Enemies_99
+  - first:
+      213: 493421909120391432
+    second: NES - Batman Return of the Joker - Enemies_100
+  - first:
+      213: 5553064036618489515
+    second: NES - Batman Return of the Joker - Enemies_101
+  - first:
+      213: 3666339008883534972
+    second: NES - Batman Return of the Joker - Enemies_102
+  - first:
+      213: -6756409860059340994
+    second: NES - Batman Return of the Joker - Enemies_103
+  - first:
+      213: 9160077683140267720
+    second: NES - Batman Return of the Joker - Enemies_104
+  - first:
+      213: -224921015028193255
+    second: NES - Batman Return of the Joker - Enemies_105
+  - first:
+      213: 232712750390040146
+    second: NES - Batman Return of the Joker - Enemies_106
+  - first:
+      213: -345186035221061137
+    second: NES - Batman Return of the Joker - Enemies_107
+  - first:
+      213: 5590135035212909326
+    second: NES - Batman Return of the Joker - Enemies_108
+  - first:
+      213: 6846420589280499101
+    second: NES - Batman Return of the Joker - Enemies_109
+  - first:
+      213: 989213704967768662
+    second: NES - Batman Return of the Joker - Enemies_110
+  - first:
+      213: 4745258569459830795
+    second: NES - Batman Return of the Joker - Enemies_111
+  - first:
+      213: 6564859200309107548
+    second: NES - Batman Return of the Joker - Enemies_112
+  - first:
+      213: 7831019914924055925
+    second: NES - Batman Return of the Joker - Enemies_113
+  - first:
+      213: -3848814832067902477
+    second: NES - Batman Return of the Joker - Enemies_114
+  - first:
+      213: 2256056768348003307
+    second: NES - Batman Return of the Joker - Enemies_115
+  - first:
+      213: 6464260383183986495
+    second: NES - Batman Return of the Joker - Enemies_116
+  - first:
+      213: 1564100136358939348
+    second: NES - Batman Return of the Joker - Enemies_117
+  - first:
+      213: 1477987553853962063
+    second: NES - Batman Return of the Joker - Enemies_118
+  - first:
+      213: 4526103710272322901
+    second: NES - Batman Return of the Joker - Enemies_119
+  - first:
+      213: 8003255832673594027
+    second: NES - Batman Return of the Joker - Enemies_120
+  - first:
+      213: -3593843473090103476
+    second: NES - Batman Return of the Joker - Enemies_121
+  - first:
+      213: 7378117845153097717
+    second: NES - Batman Return of the Joker - Enemies_122
+  - first:
+      213: 5979549723630594582
+    second: NES - Batman Return of the Joker - Enemies_123
+  - first:
+      213: -5814313005621181256
+    second: NES - Batman Return of the Joker - Enemies_124
+  - first:
+      213: 4324041283150116249
+    second: NES - Batman Return of the Joker - Enemies_125
+  - first:
+      213: -7281831107871466655
+    second: NES - Batman Return of the Joker - Enemies_126
+  - first:
+      213: -8585436885474686139
+    second: NES - Batman Return of the Joker - Enemies_127
+  - first:
+      213: 9102776644983646099
+    second: NES - Batman Return of the Joker - Enemies_128
+  - first:
+      213: -7169285827579763100
+    second: NES - Batman Return of the Joker - Enemies_129
+  - first:
+      213: 339471745372019947
+    second: NES - Batman Return of the Joker - Enemies_130
+  - first:
+      213: 6858304170065356926
+    second: NES - Batman Return of the Joker - Enemies_131
+  - first:
+      213: 2150103793661373487
+    second: NES - Batman Return of the Joker - Enemies_132
+  - first:
+      213: -8589891450685172341
+    second: NES - Batman Return of the Joker - Enemies_133
+  - first:
+      213: 5144080739106213942
+    second: NES - Batman Return of the Joker - Enemies_134
+  - first:
+      213: -7602034766445442458
+    second: NES - Batman Return of the Joker - Enemies_135
+  - first:
+      213: 1063298028268759473
+    second: NES - Batman Return of the Joker - Enemies_136
+  - first:
+      213: 8767447691170417015
+    second: NES - Batman Return of the Joker - Enemies_137
+  - first:
+      213: -668736283657451439
+    second: NES - Batman Return of the Joker - Enemies_138
+  - first:
+      213: -6708273390350709901
+    second: NES - Batman Return of the Joker - Enemies_139
+  - first:
+      213: 3753012176620484774
+    second: NES - Batman Return of the Joker - Enemies_140
+  - first:
+      213: 2122869706260859352
+    second: NES - Batman Return of the Joker - Enemies_141
+  - first:
+      213: 2973600850473610686
+    second: NES - Batman Return of the Joker - Enemies_142
+  - first:
+      213: 3584970341302213819
+    second: NES - Batman Return of the Joker - Enemies_143
+  - first:
+      213: -1986910244981417900
+    second: NES - Batman Return of the Joker - Enemies_144
+  - first:
+      213: 6529581498793077671
+    second: NES - Batman Return of the Joker - Enemies_145
+  - first:
+      213: -7350349349151529618
+    second: NES - Batman Return of the Joker - Enemies_146
+  - first:
+      213: -4773585787241794220
+    second: NES - Batman Return of the Joker - Enemies_147
+  - first:
+      213: -2428166089174606219
+    second: NES - Batman Return of the Joker - Enemies_148
+  - first:
+      213: 3284343080526323676
+    second: NES - Batman Return of the Joker - Enemies_149
+  - first:
+      213: 641500994357623572
+    second: NES - Batman Return of the Joker - Enemies_150
+  - first:
+      213: 8396984071993333757
+    second: NES - Batman Return of the Joker - Enemies_151
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 819
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f23a7d9c77b2360800000000000000
+      internalID: 7145936942543351579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 819
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ebd74421717070800000000000000
+      internalID: 8102381605254587284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 819
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a5f0c12e072ce0800000000000000
+      internalID: -1430158818532808509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 819
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc99004bcd78be0800000000000000
+      internalID: -1474967687278245053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 838
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f8208547853c40800000000000000
+      internalID: 5491444053220847996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 819
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a982ed27682780800000000000000
+      internalID: -8707596432748992845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 819
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4a7027985fc340800000000000000
+      internalID: 4886221526828469702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 819
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca09547956c0e5e0800000000000000
+      internalID: -1882286556734485824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 819
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092ac8ec0ba2f760800000000000000
+      internalID: 7490237202204076292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 838
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07788e02967fd90800000000000000
+      internalID: -7064061900446273357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 819
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fe6259555f1300800000000000000
+      internalID: 224992348515268400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 819
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b91c44961288c0800000000000000
+      internalID: -3998608692963855509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 765
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9135cd4edc409d0800000000000000
+      internalID: -2808893884739675740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 766
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a29ebd94178dc00800000000000000
+      internalID: 925614285460679200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 766
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6944db71b216a0bc0800000000000000
+      internalID: -3816130896533306218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 765
+        width: 21
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bf8e592a6973990800000000000000
+      internalID: -7406285437143549172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 766
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb60d911af1a5eb0800000000000000
+      internalID: -4730433681815999546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 766
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90cbd6401183860800000000000000
+      internalID: 7509771089358883321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 766
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65309e576cd87fa60800000000000000
+      internalID: 7707785170789139286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 793
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2dfab2f33b25f0800000000000000
+      internalID: -780472992806392250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 790
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb495100c522240800000000000000
+      internalID: 4765472511143231238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 765
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b04460c66cf97d20800000000000000
+      internalID: 3276927722133405876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 765
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c093d1bdbaedbda0800000000000000
+      internalID: -5927323434096553790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 766
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a100c3fe5ea73a0800000000000000
+      internalID: -6666763482702013873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 766
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a34e7c0cd811e0800000000000000
+      internalID: -2226788069518629125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 765
+        width: 21
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7d5295f610ea060800000000000000
+      internalID: 6966507251337385913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 766
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc90f00fc9c917d0800000000000000
+      internalID: -2947102590226096974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 766
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0e172976ecdbb0800000000000000
+      internalID: -4909796085718971212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 766
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbedf14eeb965f0800000000000000
+      internalID: -762868774866076541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 793
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a615e927eb49170800000000000000
+      internalID: 8184375822330718753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 790
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17dc6b1fc9193700800000000000000
+      internalID: 520475609247045402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 765
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e6d21061afb48b0800000000000000
+      internalID: -5166761175061533109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 684
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f9e5331eea73f0800000000000000
+      internalID: -902147009058049193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 684
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c79b50e3d1fd190800000000000000
+      internalID: -7935591866182304698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 684
+        width: 28
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89748afb883761410800000000000000
+      internalID: 1447471361414416280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 684
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce62c1687ddbb940800000000000000
+      internalID: 5313083694519578304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 700
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b184e9fe75b38450800000000000000
+      internalID: 6089910678098051508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 700
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e64f76e7e491f0800000000000000
+      internalID: -1038950636851895963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 684
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf4432b5f7140850800000000000000
+      internalID: 6342220519268700094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 684
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8330bd3eb1cf6f50800000000000000
+      internalID: 6876928178840941452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 684
+        width: 28
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd9794ab08adc30800000000000000
+      internalID: 4384958724783594436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 684
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f8901c85c14da0800000000000000
+      internalID: -5962267226297274332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 700
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f67b4be0bed8b350800000000000000
+      internalID: 6032816552305981172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 700
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a7d747d944f6070800000000000000
+      internalID: 8101769697717746284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 627
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7408157959e8b0800000000000000
+      internalID: -5122464741708234787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 627
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a7d20e311a5880800000000000000
+      internalID: -8621559578614060885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 627
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc4c0c4eb20206d0800000000000000
+      internalID: -3025852983296635719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 627
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da188f54a3e74b0e0800000000000000
+      internalID: -2255038724658658899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 646
+        width: 21
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb693108b7b94e020800000000000000
+      internalID: 2370190258635773630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 653
+        width: 20
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e816c5d3deb2e80800000000000000
+      internalID: -8202201448526541202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 650
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda7a93837f897b0800000000000000
+      internalID: -5217148347451200030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 649
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a903ba0d49d0c0800000000000000
+      internalID: -4550521240132410897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 645
+        width: 14
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e63a8d65974980800000000000000
+      internalID: -8554704669464141532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 641
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c201802fabb074d0800000000000000
+      internalID: -3138802579438239039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 642
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20e44087c7a9350800000000000000
+      internalID: 6024264306471600871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 15
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8488a1475ff721d0800000000000000
+      internalID: -3375448645462096758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 627
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc143830650d5a0800000000000000
+      internalID: -6498599689208606899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 632
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a3c3c345a92af0800000000000000
+      internalID: -420623379716659420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 627
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86612acac78fae80800000000000000
+      internalID: -8165158294355089780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 568
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c8fd6d8c7015010800000000000000
+      internalID: 1175729536900238388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 568
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91533a32679f31060800000000000000
+      internalID: 6923151337997939993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 616
+        width: 16
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2225a8dd32212e0800000000000000
+      internalID: -2156621837141663016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 612
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c777ff6be2bc6f00800000000000000
+      internalID: 1111459932319217603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 610
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf6df9d8544d210800000000000000
+      internalID: 1356785862319733766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 602
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137b795449394b10800000000000000
+      internalID: 1966165678045754140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 604
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7df840e98b0ab0800000000000000
+      internalID: -5040783761520885911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 594
+        width: 24
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d08c0a7cce8aec20800000000000000
+      internalID: 3236556291091235025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 593
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767afc219359eed0800000000000000
+      internalID: -2384282644725991819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 577
+        width: 30
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af37e4314ba73340800000000000000
+      internalID: 4843528220809052071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 495
+        width: 31
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0992b204c4d8440800000000000000
+      internalID: 4939688204781064431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 495
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87f302c724ca2e0800000000000000
+      internalID: -2113241024259196718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 495
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc07d4afb12e350800000000000000
+      internalID: 6044424411739639127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 495
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4959088877711fa0800000000000000
+      internalID: -5831748682905986740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 511
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238562afb5af30df0800000000000000
+      internalID: -215053084237866958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 478
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc282b433faf7e200800000000000000
+      internalID: 209411830164128461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 478
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405bc6ead1e4fd0800000000000000
+      internalID: -2355912920082873282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 478
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d295653c5eacf720800000000000000
+      internalID: 2881369572666348244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 478
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a0cd5291ca429f0800000000000000
+      internalID: -494080835094574512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 430
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad6925c07aa0e20800000000000000
+      internalID: 3317647746878855872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 440
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ac4a42867ca0b0800000000000000
+      internalID: -5716063525075637875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 34
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70fdb239f7507b10800000000000000
+      internalID: 1977176964225429631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 452
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ebe0a6be38d1050800000000000000
+      internalID: 5772915344478748238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 451
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733dfa7152b91bc80800000000000000
+      internalID: -8308689253908360393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 453
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3510339d2fc590800000000000000
+      internalID: -7651847131689043122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 451
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff486b1f7f59ae200800000000000000
+      internalID: 210145224770880767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 452
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400d289e4ed80850800000000000000
+      internalID: 6343564504293244995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 452
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335867fbc44ba5ae0800000000000000
+      internalID: -1559736079207725773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 449
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5559804b29421200800000000000000
+      internalID: 149262187771811165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 447
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6e7ed71c827d40800000000000000
+      internalID: 5580676922410429851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 446
+        width: 16
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db24c44a7de9e30800000000000000
+      internalID: 4512280977325866319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 429
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe89e9a8363d31850800000000000000
+      internalID: 6346648724376033519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890a57a7a06facb10800000000000000
+      internalID: 2002683509184241816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 380
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc34df5bd60f9470800000000000000
+      internalID: 8403442968971984061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 380
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a9cf13ec795380800000000000000
+      internalID: -8982010666881015454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 380
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356271e99ad84b10800000000000000
+      internalID: 1966061591794443580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 380
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8efd79f9018d280800000000000000
+      internalID: -9018439976175539977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 401
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9a0a01113dab10800000000000000
+      internalID: 1994304159247670897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 400
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973589b4319f2a110800000000000000
+      internalID: 1270851906139870073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 400
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b8d3fecfa945d0800000000000000
+      internalID: -3077735566941835094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 331
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d041b44702f173240800000000000000
+      internalID: 4771316554472821773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 331
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8091481bc9cf8d600800000000000000
+      internalID: 493421909120391432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 331
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae44a5e152701d40800000000000000
+      internalID: 5553064036618489515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 331
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c29aa47e371e230800000000000000
+      internalID: 3666339008883534972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 331
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f573e77096c32a0800000000000000
+      internalID: -6756409860059340994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 352
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0f82ee122f1f70800000000000000
+      internalID: 9160077683140267720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 351
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91869bc478be0ecf0800000000000000
+      internalID: -224921015028193255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 351
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d3b57303ca3300800000000000000
+      internalID: 232712750390040146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 282
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1293d3127a53bf0800000000000000
+      internalID: -345186035221061137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 282
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc45c5236249d40800000000000000
+      internalID: 5590135035212909326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 282
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d951cf6804f530f50800000000000000
+      internalID: 6846420589280499101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 282
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a4d83af946abd00800000000000000
+      internalID: 989213704967768662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 34
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001808078b8ad140800000000000000
+      internalID: 4745258569459830795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 303
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b11ea19a01b1b50800000000000000
+      internalID: 6564859200309107548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 302
+        width: 16
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dde024f1f5dac60800000000000000
+      internalID: 7831019914924055925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 302
+        width: 16
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f386585d43469ac0800000000000000
+      internalID: -3848814832067902477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 241
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb9f7e7daf1f4f10800000000000000
+      internalID: 2256056768348003307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 241
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fdf43c19aa5b950800000000000000
+      internalID: 6464260383183986495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 249
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da80dc79ccc4b510800000000000000
+      internalID: 1564100136358939348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f9e979ddd28410800000000000000
+      internalID: 1477987553853962063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 241
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dfb5b1853ffce30800000000000000
+      internalID: 4526103710272322901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 241
+        width: 54
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2519d6c6411f60800000000000000
+      internalID: 8003255832673594027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 249
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47bb18f66a102ec0800000000000000
+      internalID: -3593843473090103476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 251
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f72257d617546660800000000000000
+      internalID: 7378117845153097717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 216
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a69c9eac0abf250800000000000000
+      internalID: 5979549723630594582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 221
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4040f70296f4fa0800000000000000
+      internalID: -5814313005621181256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995794423a4120c30800000000000000
+      internalID: 4324041283150116249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 200
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b9eec203db1fa90800000000000000
+      internalID: -7281831107871466655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bceb7e3a66ad880800000000000000
+      internalID: -8585436885474686139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e8f9412f835e70800000000000000
+      internalID: 9102776644983646099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466add93684918c90800000000000000
+      internalID: -7169285827579763100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5e2af0cb06b400800000000000000
+      internalID: 339471745372019947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78635a4e479d2f50800000000000000
+      internalID: 6858304170065356926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ce7633204b6dd10800000000000000
+      internalID: 2150103793661373487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85debe9c339ac880800000000000000
+      internalID: -8589891450685172341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 182
+        width: 23
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630da5e7d22736740800000000000000
+      internalID: 5144080739106213942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 165
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a89df38a5208690800000000000000
+      internalID: -7602034766445442458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 166
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b925515ce791ce00800000000000000
+      internalID: 1063298028268759473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790803293b3ca970800000000000000
+      internalID: 8767447691170417015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158ce24a4eb28b6f0800000000000000
+      internalID: -668736283657451439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc0f7b4ec67e2a0800000000000000
+      internalID: -6708273390350709901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 137
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8fd29b0b0651430800000000000000
+      internalID: 3753012176620484774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9cd1a10c2f57d10800000000000000
+      internalID: 2122869706260859352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 101
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd674cf73a544920800000000000000
+      internalID: 2973600850473610686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc11ab088f50c130800000000000000
+      internalID: 3584970341302213819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585c47c8a31d64e0800000000000000
+      internalID: -1986910244981417900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 66
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab268727cbbd9a50800000000000000
+      internalID: 6529581498793077671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65acc4f5305ef990800000000000000
+      internalID: -7350349349151529618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 58
+        width: 27
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455799e9401d0cdb0800000000000000
+      internalID: -4773585787241794220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e191f8ecb6d4ed0800000000000000
+      internalID: -2428166089174606219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 9
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf984b61a4549d20800000000000000
+      internalID: 3284343080526323676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bfebb61c117e800800000000000000
+      internalID: 641500994357623572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Batman Return of the Joker - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 9
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df796cb3684188470800000000000000
+      internalID: 8396984071993333757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
