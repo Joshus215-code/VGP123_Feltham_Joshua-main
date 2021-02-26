@@ -200,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9500621}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 33.49, y: -5.06, z: 0}
+  m_LocalPosition: {x: 33.49, y: -5.2, z: 0}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
   m_Children: []
   m_Father: {fileID: 0}
@@ -368,7 +368,7 @@ GameObject:
   - component: {fileID: 960220612}
   m_Layer: 0
   m_Name: Turret
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -425,7 +425,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 100
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -446,11 +446,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdb565009e2d8f5498e2c3d69d49da0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileSpawnpoint: {fileID: 0}
-  projectilePrefab: {fileID: 0}
-  projectileForce: 0
-  projectileFireRate: 0
-  health: 0
+  projectileSpawnpoint: {fileID: 88227043}
+  projectilePrefab: {fileID: 4895197103493404809, guid: 5861f9fd220365d429f85f2ff6a8268a, type: 3}
+  projectileForce: 1
+  projectileFireRate: 1
+  health: 3
 --- !u!95 &960220615
 Animator:
   serializedVersion: 3
@@ -721,7 +721,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 100
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
@@ -939,6 +939,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 9208913866851907792, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.x
+      value: 10.023216
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907792, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.y
+      value: 0.86956024
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907792, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.x
+      value: 34.087074
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907792, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.y
+      value: 2.1876845
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907793, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.x
+      value: 9.041229
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907793, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.y
+      value: 0.83839726
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907793, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.x
+      value: 73.99547
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907793, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.y
+      value: 2.1721034
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907794, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.x
+      value: 0.41298676
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907794, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.x
+      value: 78.2847
+      objectReference: {fileID: 0}
     - target: {fileID: 9208913866851907795, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
       propertyPath: m_Name
       value: Floor Collider
@@ -957,11 +997,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9208913866851907797, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
       propertyPath: m_Size.x
-      value: 88.85764
+      value: 96.63585
       objectReference: {fileID: 0}
     - target: {fileID: 9208913866851907797, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
       propertyPath: m_Offset.x
-      value: 26.214222
+      value: 30.103325
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907798, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.x
+      value: 2.9547348
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907798, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.y
+      value: 0.871917
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907798, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.x
+      value: 26.565006
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907798, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.15852368
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907799, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.x
+      value: 5.9467697
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907799, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Size.y
+      value: 0.8408041
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907799, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.x
+      value: 43.184727
+      objectReference: {fileID: 0}
+    - target: {fileID: 9208913866851907799, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.14296722
       objectReference: {fileID: 0}
     - target: {fileID: 9208913866851907803, guid: 9e60d113ea81e5442bf421fa7efc63e2, type: 3}
       propertyPath: m_RootOrder
