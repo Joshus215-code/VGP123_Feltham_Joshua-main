@@ -38,8 +38,18 @@ public class projectile : MonoBehaviour
         
     }
 
-    void OnCollisionEnter2D(Collision2D c)
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        Destroy(gameObject);
+        if (collision.gameObject.layer == 3)
+        {
+            Destroy(gameObject);
+        }
+
+        if(collision.gameObject.tag == "enemy")
+        {
+            collision.gameObject.GetComponent<enemyMovement>().IsDead();
+            Destroy(gameObject);
+            
+        }
     }
 }

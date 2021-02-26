@@ -45,6 +45,7 @@ public class playerFire : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
             FireProjectile();
+
         else
         {
 
