@@ -15,6 +15,8 @@ public class enemyTurret : MonoBehaviour
 
     public float projectileFireRate;
     float timeSinceLastFire = 0.0f;
+
+
     public int health;
     Animator anim;
     // Start is called before the first frame update

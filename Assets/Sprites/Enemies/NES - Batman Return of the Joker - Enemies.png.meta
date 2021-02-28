@@ -103,7 +103,7 @@ TextureImporter:
     second: idle
   - first:
       213: -7935591866182304698
-    second: attack1
+    second: idle01
   - first:
       213: 1447471361414416280
     second: NES - Batman Return of the Joker - Enemies_34
@@ -121,13 +121,13 @@ TextureImporter:
     second: NES - Batman Return of the Joker - Enemies_38
   - first:
       213: 6876928178840941452
-    second: NES - Batman Return of the Joker - Enemies_39
+    second: idle022
   - first:
       213: 4384958724783594436
     second: NES - Batman Return of the Joker - Enemies_40
   - first:
       213: -5962267226297274332
-    second: NES - Batman Return of the Joker - Enemies_41
+    second: attack03
   - first:
       213: 6032816552305981172
     second: NES - Batman Return of the Joker - Enemies_42
@@ -1288,7 +1288,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: attack1
+      name: idle01
       rect:
         serializedVersion: 2
         x: 31
@@ -1414,7 +1414,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Batman Return of the Joker - Enemies_39
+      name: idle022
       rect:
         serializedVersion: 2
         x: 181
@@ -1456,7 +1456,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: NES - Batman Return of the Joker - Enemies_41
+      name: attack03
       rect:
         serializedVersion: 2
         x: 247

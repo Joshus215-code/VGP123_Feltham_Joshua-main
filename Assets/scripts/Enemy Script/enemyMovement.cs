@@ -13,6 +13,8 @@ public class enemyMovement : MonoBehaviour
     Rigidbody2D rb;
     SpriteRenderer sr;
     Animator anim;
+    
+
 
     public int health;
     public float speed;
@@ -23,6 +25,7 @@ public class enemyMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
+       
 
         if (speed <= 0)
         {
@@ -66,8 +69,14 @@ public class enemyMovement : MonoBehaviour
         health--;
         if (health <= 0)
         {
+
             anim.SetBool("IsDead", true);
             rb.velocity = Vector2.zero;
+            rb.isKinematic = true;
+            GetComponent<BoxCollider2D>().enabled = false;
+
+  
+
         }
 
     }

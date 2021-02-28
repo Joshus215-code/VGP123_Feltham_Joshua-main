@@ -45,11 +45,18 @@ public class projectile : MonoBehaviour
             Destroy(gameObject);
         }
 
-        if(collision.gameObject.tag == "enemy")
+        if (collision.gameObject.tag == "enemy")
         {
-            collision.gameObject.GetComponent<enemyMovement>().IsDead();
-            Destroy(gameObject);
-            
+            if (collision.gameObject.GetComponent<enemyTurret>())
+            {
+                Destroy(gameObject);
+            }
+
+            else
+            { 
+                collision.gameObject.GetComponent<enemyMovement>().IsDead();
+                Destroy(gameObject);
+            }
         }
     }
 }
