@@ -23,7 +23,7 @@ public class enemyTurret : MonoBehaviour
 
     private playermovement player;
     private Transform playerPos;
-    //public Transform turretPos;
+   
 
     public GameObject turret;
 
@@ -34,7 +34,7 @@ public class enemyTurret : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       // turretPos = GameObject.FindGameObjectWithTag("Turret").GetComponent<Transform>();
+       
 
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<playermovement>();
         playerPos = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
