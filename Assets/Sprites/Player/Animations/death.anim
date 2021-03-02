@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Turret
+  m_Name: death
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 6876928178840941452, guid: e57a85890aaca0a4885556975d44d05f, type: 3}
+      value: {fileID: -4094316711929241556, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - time: 0.3
+      value: {fileID: -6541056366108044950, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - time: 0.8333333
+      value: {fileID: 5457250548828565885, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - time: 1.3666667
+      value: {fileID: 5457250548828565885, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -40,13 +46,16 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 6876928178840941452, guid: e57a85890aaca0a4885556975d44d05f, type: 3}
+    - {fileID: -4094316711929241556, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - {fileID: -6541056366108044950, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - {fileID: 5457250548828565885, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
+    - {fileID: 5457250548828565885, guid: c62ee8905e1fea2499f50db03bfe3c41, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.033333335
+    m_StopTime: 1.4
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -65,4 +74,18 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.033333335
+    functionName: IsDead
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.4
+    functionName: FinishedDeath
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

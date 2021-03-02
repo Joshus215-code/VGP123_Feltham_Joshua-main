@@ -25,6 +25,9 @@ public class playermovement : MonoBehaviour
     bool isWalkShooting = false;
     public bool isCrouching = false;
     bool crouchShooting = false;
+    public int health;
+
+      
 
     int _score = 0;
     public int score
@@ -91,7 +94,13 @@ public class playermovement : MonoBehaviour
             Debug.Log("GroundCheck does not Exist, Please set Transform Value for groundcheck");
         }
 
-     
+        if (health <= 0)
+        {
+            health = 3;
+        }
+
+
+
     }
 
 
@@ -100,6 +109,7 @@ public class playermovement : MonoBehaviour
 
 
     {
+        
        
 
         if (Input.GetButtonDown("Fire1"))
@@ -181,8 +191,10 @@ public class playermovement : MonoBehaviour
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
 
-        
-        if(Input.GetButtonDown("Jump") && isGrounded)
+    
+
+
+        if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
@@ -197,6 +209,9 @@ public class playermovement : MonoBehaviour
         {
             speed = 5.0f;
         }
+
+
+     
 
 
 
@@ -222,6 +237,14 @@ public class playermovement : MonoBehaviour
         facingRight = !facingRight;
     }
 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "proximity")
+        {
+            collision.gameObject.GetComponent<enemyTurret>().Fire();
+        }
+
+    }
 
     public void StartJumpForceChange()
     {
@@ -256,6 +279,31 @@ public class playermovement : MonoBehaviour
         }
     }
 
+    public void IsDead()
+    {
+        health--;
+        
+        if (health <= 0)
+        {
+            
+            anim.SetBool("isDead", true);
+            rb.velocity = Vector2.zero;
+         
+            speed = 0.1f;
+        }
+
+
+    }
+
+
+
+    public void FinishedDeath()
+    {
+        Destroy(gameObject);
+    }
 }
+
+
+
 
 

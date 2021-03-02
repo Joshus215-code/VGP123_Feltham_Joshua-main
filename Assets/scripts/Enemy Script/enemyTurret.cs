@@ -10,11 +10,23 @@ public class enemyTurret : MonoBehaviour
     public Transform projectileSpawnpoint;
     public projectile projectilePrefab;
 
+    public bool facingRight = true;
+
+    public float attackRange;
+    private float distanceToTarget;
+  
 
     public float projectileForce;
 
     public float projectileFireRate;
     float timeSinceLastFire = 0.0f;
+
+    private playermovement player;
+    private Transform playerPos;
+    //public Transform turretPos;
+
+    public GameObject turret;
+
 
 
     public int health;
@@ -22,6 +34,11 @@ public class enemyTurret : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       // turretPos = GameObject.FindGameObjectWithTag("Turret").GetComponent<Transform>();
+
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<playermovement>();
+        playerPos = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+
         anim = GetComponent<Animator>();
 
         if (projectileForce <= 0)
@@ -38,17 +55,68 @@ public class enemyTurret : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Time.time >= timeSinceLastFire + projectileFireRate)
+        if(Vector2.Distance(playerPos.position , turret.gameObject.transform.position) < attackRange)
         {
-            anim.SetBool("Fire", true);
-            timeSinceLastFire = Time.time;
+            if (Time.time >= timeSinceLastFire + projectileFireRate)
+            {
+                anim.SetBool("Fire", true);
+                timeSinceLastFire = Time.time;
+            }
         }
+
+
+       
+
+        if (player.transform.position.x < gameObject.transform.position.x && facingRight)
+            Flip();
+
+        if (player.transform.position.x > gameObject.transform.position.x && !facingRight)
+            Flip();
+
+
+
+
+    }
+
+    void Flip()
+    {
+        
+        facingRight = !facingRight;
+        Vector3 tmpScale = gameObject.transform.localScale;
+        tmpScale.x *= -1;
+        gameObject.transform.localScale = tmpScale;
     }
 
     public void Fire()
     {
-        projectile temp = Instantiate(projectilePrefab, projectileSpawnpoint.position, projectileSpawnpoint.rotation);
-        temp.speed = projectileForce;
+        if (projectileSpawnpoint)
+        {
+            projectile projectileInstance = Instantiate(projectilePrefab, projectileSpawnpoint.position, projectileSpawnpoint.rotation);
+            flip(projectileInstance);
+        }
+        else
+        {
+            projectile projectileInstance = Instantiate(projectilePrefab, projectileSpawnpoint.position, projectileSpawnpoint.rotation);
+            flip(projectileInstance);
+        }
+
+
+    }
+
+
+
+    void flip(projectile projectileInstance)
+    {
+        if (transform.localScale.x <= 0)
+        {
+            projectileInstance.transform.localScale = new Vector3(-projectileInstance.transform.localScale.x, projectileInstance.transform.localScale.y, projectileInstance.transform.localScale.z);
+            projectileInstance.speed = 0 - projectileForce;
+        }
+        else
+        {
+            projectileInstance.speed = projectileForce;
+        }
+  
     }
 
     public void ReturnToIdle()
@@ -58,14 +126,18 @@ public class enemyTurret : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "PlayerProjectile")
+        if (collision.gameObject.tag == "Playerprojectile")
         {
             health--;
             Destroy(collision.gameObject);
             if (health <= 0)
             {
-
+                Destroy(gameObject);
             }
         }
     }
+
+ 
+
+    
 }

@@ -7,6 +7,10 @@ TagManager:
   - Pickups
   - enemy
   - Barrier
+  - EnemyProjectile
+  - Playerprojectile
+  - proximity
+  - Turret
   layers:
   - Default
   - TransparentFX
@@ -14,7 +18,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 

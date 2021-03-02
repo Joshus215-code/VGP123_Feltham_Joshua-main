@@ -2,17 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
-public class projectile : MonoBehaviour
+public class Enemyprojectile : MonoBehaviour
 {
-
     public float speed;
     public float lifetime;
 
-    public Transform projectilePrefab;
+    public Transform EprojectilePrefab;
 
 
- 
+
 
 
     // Start is called before the first frame update
@@ -21,7 +19,7 @@ public class projectile : MonoBehaviour
         if (lifetime <= 0)
         {
             lifetime = 2.0f;
-            
+
         }
 
 
@@ -29,23 +27,18 @@ public class projectile : MonoBehaviour
         Destroy(gameObject, lifetime);
 
 
-               
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.layer == 3)
-        {
-            Destroy(gameObject);
-        }
-
-        if (collision.gameObject.tag == "EnemyProjectile")
         {
             Destroy(gameObject);
         }
@@ -58,23 +51,16 @@ public class projectile : MonoBehaviour
 
         if (collision.gameObject.tag == "enemy")
         {
-            Destroy(gameObject);
-        }
+            if (collision.gameObject.GetComponent<enemyTurret>())
+            {
+                Destroy(gameObject);
+            }
 
-        if (collision.gameObject.tag == "Playerprojectile")
-        {
-            Destroy(gameObject);
+            else
+            {
+                collision.gameObject.GetComponent<enemyMovement>().IsDead();
+                Destroy(gameObject);
+            }
         }
-
-         if (collision.gameObject.tag == "Turret")
-        {
-            Destroy(gameObject);
-        }
-
-        else
-        {
-            
-        }
-        
     }
 }

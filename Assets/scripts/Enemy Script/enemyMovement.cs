@@ -62,8 +62,8 @@ public class enemyMovement : MonoBehaviour
         {
             sr.flipX = !sr.flipX;
         }
-    }
 
+    }
     public void IsDead()
     {
         health--;
@@ -74,15 +74,26 @@ public class enemyMovement : MonoBehaviour
             rb.velocity = Vector2.zero;
             rb.isKinematic = true;
             GetComponent<BoxCollider2D>().enabled = false;
-
-  
-
+            
         }
 
     }
-
     public void FinishedDeath()
     {
         Destroy(gameObject);
+    }
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Playerprojectile")
+        {
+            health--;
+            Destroy(collision.gameObject);
+            if (health <= 0)
+            {
+                IsDead();
+            }
+        }
     }
 }

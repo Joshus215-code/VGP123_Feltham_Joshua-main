@@ -20,7 +20,7 @@ public class PlayerCollision : MonoBehaviour
 
         if(bounceForce <= 0)
         {
-            bounceForce = 20.0f;
+            bounceForce = 30.0f;
         }
     }
 

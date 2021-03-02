@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 928278007}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FirePointCrouch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39,7 +39,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1444070916}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FirePointStanding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69,7 +69,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2517409166388384537}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GroundCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -105,9 +105,9 @@ GameObject:
   - component: {fileID: 6534429049294087167}
   - component: {fileID: 364996578}
   - component: {fileID: 1824952686}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -222,7 +222,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 05b80b94b39323a418cbd0ed9f50e4cf, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -247,7 +247,10 @@ MonoBehaviour:
     m_Bits: 8
   groundCheck: {fileID: 2517409166388384537}
   groundCheckRadius: 0.01
+  facingRight: 1
   isCrouching: 0
+  health: 0
+  maxLives: 3
 --- !u!95 &364996578
 Animator:
   serializedVersion: 3
