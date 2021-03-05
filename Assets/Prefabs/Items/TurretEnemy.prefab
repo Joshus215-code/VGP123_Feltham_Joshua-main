@@ -46,7 +46,7 @@ GameObject:
   - component: {fileID: -7121934178321851252}
   m_Layer: 0
   m_Name: TurretEnemy
-  m_TagString: Turret
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -180,7 +180,6 @@ MonoBehaviour:
   attackRange: 15
   projectileForce: 4
   projectileFireRate: 1
-  turretPos: {fileID: 5698106514531388695}
   turret: {fileID: 5698106514531388715}
   health: 3
 --- !u!50 &-7121934178321851252

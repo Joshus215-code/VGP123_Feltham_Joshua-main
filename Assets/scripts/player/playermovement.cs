@@ -29,40 +29,7 @@ public class playermovement : MonoBehaviour
 
       
 
-    int _score = 0;
-    public int score
-    {
-        get { return _score; }
-        set
-    {
-        _score = value;
-            Debug.Log("Current Score Is " + _score);
-        
-    }
-}
-
-    public int maxLives = 3;
-    int _lives = 3;
-
-    public int lives
-    {
-        get { return _lives; }
-        set
-        {
-            _lives = value;
-            if (_lives > maxLives)
-            {
-                _lives = maxLives;
-            }
-            else if (_lives < 0)
-            {
-
-            }
-
-
-            Debug.Log("Current Lives Are " + lives);
-        }
-    }
+   
 
 
     // Start is called before the first frame update
@@ -98,6 +65,7 @@ public class playermovement : MonoBehaviour
         {
             health = 3;
         }
+
 
 
 

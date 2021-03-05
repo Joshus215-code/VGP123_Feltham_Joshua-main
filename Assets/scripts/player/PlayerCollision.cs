@@ -26,6 +26,10 @@ public class PlayerCollision : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+      if (collision.gameObject.tag == "EnemyProjectile" || collision.gameObject.tag == "enemy")
+        {
+            GameManager.instance.lives--;
+        }
         
         if(collision.gameObject.tag == "enemy")
         {
@@ -37,6 +41,9 @@ public class PlayerCollision : MonoBehaviour
             }
         }
     }
+    
+
+ 
 
     // Update is called once per frame
     void Update()

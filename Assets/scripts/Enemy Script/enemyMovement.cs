@@ -58,7 +58,7 @@ public class enemyMovement : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision)
+        if (collision.gameObject.tag == "Barrier")
         {
             sr.flipX = !sr.flipX;
         }

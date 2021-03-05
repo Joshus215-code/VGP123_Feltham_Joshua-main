@@ -52,9 +52,10 @@ public class projectile : MonoBehaviour
 
         if (collision.gameObject.tag == "Player")
         {
-            collision.gameObject.GetComponent<playermovement>().IsDead();
+           
             Destroy(gameObject);
         }
+       
 
         if (collision.gameObject.tag == "enemy")
         {
